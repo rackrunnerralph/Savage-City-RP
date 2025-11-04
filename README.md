@@ -1,3 +1,4 @@
+<script src="https://twemoji.maxcdn.com/v/latest/twemoji.min.js" crossorigin="anonymous"></script>
 
 [savage_city_rp_promo_updated.html](https://github.com/user-attachments/files/23320644/savage_city_rp_promo_updated.html)
 
